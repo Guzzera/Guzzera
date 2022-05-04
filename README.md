@@ -9,7 +9,7 @@ Passionate about design, graduated in Adobe Photoshop and Adobe Illustrator, mig
 * 🌍  I'm based in Poços de Caldas, MG, Brazil
 * 🖥️  See my portfolio at [Guzzera Web Developer](http://guzzerawebdeveloper@gmail.com)
 * ✉️  You can contact me at [guzzeradeveloper@gmail.com](mailto:guzzeradeveloper@gmail.com)
-* 🧠  I'm learning React Native, Vue.JS, Angular and Node.JS
+* 🧠  I'm learning TypeScript, React, React Native, Vue.JS, Angular and Node.JS
 
 <a href="https://www.twitter.com/Guzzera_" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Guzzera_?logo=twitter&style=for-the-badge&color=facc15&labelColor=181824"
