@@ -4,7 +4,7 @@ Hi 👋 My name is Gustavo Reis (Guzzera)
 Front-End Developer
 -------------------
 
-Passionate about design, graduated in Adobe Photoshop and Adobe Illustrator, migrating from Adobe XD to Figma. Exactly one year ago studying Web Development with a focus on Front-End (HTML5, CSS3, SCSS, Bootstrap, TailwindCSS, Material UI, JavaScript, ECMAScript 6, ES6 OOP and jQuery skills). Over time I also studied PHP 7, PHP 7 and OOP (Object-Oriented Programming), MySQL database, PHP 7 with PDO (PHP Data Objects) and MySQL, Standard MVC (Model-View-Controller) architecture with PHP 7, Ajax and API with Slim Framework. Studying through the platforms Udemy, DIO (Digital Innovation One, a Santander initiative), YouTube and through the books Learning Node and JavaScript: The Definitive Guide
+Exactly one year ago studying Web Development with a focus on Front-End (HTML5, CSS3, SCSS, Bootstrap, TailwindCSS, Material UI, JavaScript, ECMAScript 6, ES6 OOP and jQuery skills). Over time I also studied PHP 7, PHP 7 and OOP (Object-Oriented Programming), MySQL database, PHP 7 with PDO (PHP Data Objects) and MySQL, Standard MVC (Model-View-Controller) architecture with PHP 7, Ajax and API with Slim Framework. Studying through the platforms Udemy, DIO (Digital Innovation One, a Santander initiative), YouTube and through the books Learning Node and JavaScript: The Definitive Guide
 
 * 🌍  I'm based in Poços de Caldas, MG, Brazil
 * 🖥️  See my portfolio at [Guzzera Web Developer](http://guzzerawebdeveloper@gmail.com)
