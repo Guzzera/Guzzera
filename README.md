@@ -4,7 +4,7 @@ Hi 👋 My name is Gustavo Reis
 Front-End Developer
 -------------------
 
-<img src="https://i.pinimg.com/originals/97/e9/79/97e979731beadb50be38e6e273ebfeef.gif" width="1920" >
+<img align="center" src="https://i.pinimg.com/originals/97/e9/79/97e979731beadb50be38e6e273ebfeef.gif" width="1920" >
 
 Exactly one year ago studying Web Development with a focus on Front-End (HTML5, CSS3, SCSS, Bootstrap, TailwindCSS, Material UI, JavaScript, ECMAScript 6, ES6 OOP and jQuery skills). Over time I also studied PHP 7, PHP 7 and OOP (Object-Oriented Programming), MySQL database, PHP 7 with PDO (PHP Data Objects) and MySQL, Standard MVC (Model-View-Controller) architecture with PHP 7, Ajax and API with Slim Framework. Studying through the platforms Udemy, DIO (Digital Innovation One, a Santander initiative), YouTube and through the books Learning Node and JavaScript: The Definitive Guide
 
@@ -38,7 +38,7 @@ Exactly one year ago studying Web Development with a focus on Front-End (HTML5, 
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/Guzzera#5461" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/guzzeraa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/Guzzera" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/guzzera_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/gusreis" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/248702/guzzera" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Guzzera_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.linkedin.com/in/gusreis" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Guzzera_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/guzzera_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://discord.com/users/Guzzera#5461" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
