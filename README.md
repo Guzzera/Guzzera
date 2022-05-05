@@ -4,17 +4,13 @@ Hi 👋 My name is Gustavo Reis (Guzzera)
 Front-End Developer
 -------------------
 
+<img src="https://i.pinimg.com/originals/97/e9/79/97e979731beadb50be38e6e273ebfeef.gif">
+
 Exactly one year ago studying Web Development with a focus on Front-End (HTML5, CSS3, SCSS, Bootstrap, TailwindCSS, Material UI, JavaScript, ECMAScript 6, ES6 OOP and jQuery skills). Over time I also studied PHP 7, PHP 7 and OOP (Object-Oriented Programming), MySQL database, PHP 7 with PDO (PHP Data Objects) and MySQL, Standard MVC (Model-View-Controller) architecture with PHP 7, Ajax and API with Slim Framework. Studying through the platforms Udemy, DIO (Digital Innovation One, a Santander initiative), YouTube and through the books Learning Node and JavaScript: The Definitive Guide
 
 * 🌍  I'm based in Poços de Caldas, MG, Brazil
-* 🖥️  See my portfolio at [Guzzera Web Developer](http://guzzerawebdeveloper@gmail.com)
 * ✉️  You can contact me at [guzzeradeveloper@gmail.com](mailto:guzzeradeveloper@gmail.com)
 * 🧠  I'm learning TypeScript, React, React Native, Vue.JS, Angular and Node.JS
-
-<a href="https://www.twitter.com/Guzzera_" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/Guzzera_?logo=twitter&style=for-the-badge&color=facc15&labelColor=181824"
-/></a><a href="https://www.github.com/Guzzera" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Guzzera?logo=github&style=for-the-badge&color=facc15&labelColor=181824" /></a>
 
 ### Skills
 
