@@ -1,4 +1,4 @@
-Hi 👋 My name is Gustavo Reis (Guzzera)
+Hi 👋 My name is Gustavo Reis
 =======================================
 
 Front-End Developer
