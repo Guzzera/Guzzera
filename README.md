@@ -1,16 +1,12 @@
-Hi 👋 My name is Gustavo Reis
-=======================================
-
-Front-End Developer
--------------------
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm a Front-End Developer </h1>
 
 <img align="center" src="https://i.pinimg.com/originals/97/e9/79/97e979731beadb50be38e6e273ebfeef.gif" width="1920" >
 
-Exactly one year ago studying Web Development with a focus on Front-End (HTML5, CSS3, SCSS, Bootstrap, TailwindCSS, Material UI, JavaScript, ECMAScript 6, ES6 OOP and jQuery skills). Over time I also studied PHP 7, PHP 7 and OOP (Object-Oriented Programming), MySQL database, PHP 7 with PDO (PHP Data Objects) and MySQL, Standard MVC (Model-View-Controller) architecture with PHP 7, Ajax and API with Slim Framework. Studying through the platforms Udemy, DIO (Digital Innovation One, a Santander initiative), YouTube and through the books Learning Node and JavaScript: The Definitive Guide
-
+***
 * 🌍  I'm based in Poços de Caldas, MG, Brazil
 * ✉️  You can contact me at [guzzeradeveloper@gmail.com](mailto:guzzeradeveloper@gmail.com)
 * 🧠  I'm learning TypeScript, React, React Native, Vue.JS, Angular and Node.JS
+***
 
 ### Skills
 
@@ -37,7 +33,7 @@ Exactly one year ago studying Web Development with a focus on Front-End (HTML5, 
 
 <p align="left"> <a href="https://www.linkedin.com/in/gusreis" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Guzzera_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/guzzera_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://discord.com/users/Guzzera#5461" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a></p>
 
-### My GitHub Stats
+### Stats
 
 <a href="http://www.github.com/Guzzera"><img src="https://github-readme-stats.vercel.app/api?username=Guzzera&show_icons=true&hide=stars,prs,issues,contribs&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=181824&hide_border=true&show_icons=true" alt="Guzzera's GitHub stats" /></a>
 
