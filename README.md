@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm a Front-End Developer </h1>
+<h1 align="center">Hi, I'm a Full-Stack Developer </h1>
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif" height="100%" >
