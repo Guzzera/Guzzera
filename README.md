@@ -45,4 +45,4 @@
 
 <a href="https://github.com/Guzzera" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guzzera&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=92l7cazjc27lu8clw3lfrn9em&cover_image=true&theme=default&bar_color_cover=true&bar_color=53b14f)](https://spotify-github-profile.vercel.app/api/view?uid=92l7cazjc27lu8clw3lfrn9em&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=92l7cazjc27lu8clw3lfrn9em&cover_image=true&theme=novatorem&bar_color=000040&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=92l7cazjc27lu8clw3lfrn9em&redirect=true)
