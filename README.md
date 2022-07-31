@@ -44,3 +44,5 @@
 <a href="http://www.github.com/Guzzera"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Guzzera&stroke=ffffff&background=181824&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/Guzzera" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guzzera&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=92l7cazjc27lu8clw3lfrn9em&cover_image=true&theme=default&bar_color_cover=true&bar_color=53b14f)](https://spotify-github-profile.vercel.app/api/view?uid=92l7cazjc27lu8clw3lfrn9em&redirect=true)
