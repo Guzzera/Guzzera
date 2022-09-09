@@ -73,7 +73,7 @@
 
 <br clear="both">
 
-<div align="right" width="10">
+<div align="center" width="10">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=92l7cazjc27lu8clw3lfrn9em&redirect=true?theme=dark&spin=true&scan=true&rainbow=true" alt="Widget with the current Spotify song"  />
 </div>
 
