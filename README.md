@@ -43,7 +43,7 @@
 
 ###
 
-<img align="left" height="264" src="https://c.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif"  />
+<img align="left" height="120" src="https://c.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif"  />
 
 ###
 
@@ -58,9 +58,5 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="56" height="38" alt="discord logo"  />
   </a>
 </div>
-
-###
-
-<img href="https://raw.githubusercontent.com/Guzzera/Guzzera/blob/output/snake.svg" alt="Snake animation" />
 
 ###
