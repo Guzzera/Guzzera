@@ -47,7 +47,7 @@
   <a href="mailto:guzzeradeveloper@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="56" height="38" alt="gmail logo"  />
   </a>
-  <a href="Guzzera#5461" target="_blank">
+  <a href="https://discord.com/channels/@Guzzera#5461" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="56" height="38" alt="discord logo"  />
   </a>
 </div>
