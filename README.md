@@ -1,9 +1,5 @@
-<img align="right" height="230" src="https://media.tenor.com/rCaIUO0MP-EAAAAC/mario-pixel-art.gif"  />
-
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Guzzera&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=12&theme=github_dark&hide_border=true&order=2" height="130" alt="languages graph"  />
+  <img height="300" src="https://media.tenor.com/rCaIUO0MP-EAAAAC/mario-pixel-art.gif"  />
 </div>
 
 ###
@@ -68,11 +64,13 @@
 
 ###
 
-<img align="left" height="230" src="https://media.tenor.com/pPKOYQpTO8AAAAAd/monkey-developer.gif"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Guzzera&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=12&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
 
 ###
 
-<div align="right">
+<div align="center">
   <a href="https://discord.com/channels/@Guzzera#54612Fchannels%2F%40Guzzera" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="discord logo"  />
   </a>
