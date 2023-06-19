@@ -66,6 +66,10 @@
 
 ###
 
+<img align="left" height="134" src="https://camo.githubusercontent.com/8052ead9a69342705e5f4a7d1906e8efc8769cd96b37ac3033d05940d4f1d38c/68747470733a2f2f632e74656e6f722e636f6d2f69746a46657356385f525541414141692f736f756c6a612d626f792d706570652e676966"  />
+
+###
+
 <div align="center">
   <a href="https://discord.com/channels/@Guzzera#54612Fchannels%2F%40Guzzera" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
@@ -77,13 +81,5 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
   </a>
 </div>
-
-###
-
-<img align="left" height="172" src="https://camo.githubusercontent.com/8052ead9a69342705e5f4a7d1906e8efc8769cd96b37ac3033d05940d4f1d38c/68747470733a2f2f632e74656e6f722e636f6d2f69746a46657356385f525541414141692f736f756c6a612d626f792d706570652e676966"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/Guzzera/Guzzera/output/snake.svg" alt="Snake animation" />
 
 ###
