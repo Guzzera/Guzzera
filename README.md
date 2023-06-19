@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" width="1000" src="https://media.tenor.com/rCaIUO0MP-EAAAAd/mario-pixel-art.gif"  />
+  <img height="300" width="900" src="https://media.tenor.com/rCaIUO0MP-EAAAAd/mario-pixel-art.gif"  />
 </div>
 
 ###
