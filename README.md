@@ -62,9 +62,7 @@
 
 ###
 
-<img align="left" height="140" src="https://camo.githubusercontent.com/8052ead9a69342705e5f4a7d1906e8efc8769cd96b37ac3033d05940d4f1d38c/68747470733a2f2f632e74656e6f722e636f6d2f69746a46657356385f525541414141692f736f756c6a612d626f792d706570652e676966"  />
-
-###
+<br clear="both">
 
 <div align="center">
   <a href="https://discord.com/channels/@Guzzera#54612Fchannels%2F%40Guzzera" target="_blank">
@@ -76,6 +74,14 @@
   <a href="mailto:guzzeradeveloper@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="gmail logo"  />
   </a>
+</div>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <img height="154" src="https://camo.githubusercontent.com/8052ead9a69342705e5f4a7d1906e8efc8769cd96b37ac3033d05940d4f1d38c/68747470733a2f2f632e74656e6f722e636f6d2f69746a46657356385f525541414141692f736f756c6a612d626f792d706570652e676966"  />
 </div>
 
 ###
